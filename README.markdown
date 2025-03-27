@@ -20,7 +20,7 @@ Works with internet streams (only with properly set tags - usually Icecast strea
 ## Installation
 
 Installation is manual. Just put this python script in your $PATH. It doesn't need to configure anything within MOC itself.
-Before running you need to create configuration file ``~/.mocpscrob/config`` which should look like below:
+Before running you need to create configuration file ``~/.moc/scrobbler/config`` which should look like below:
 
     [scrobbler]
     login=YOUR_LASTFM_LOGIN
